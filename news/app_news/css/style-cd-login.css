@@ -1,0 +1,88 @@
+.container{
+    height: 83.4vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:row;
+
+}
+.box{
+    height: 95%;
+    width: 70%;
+    background-image:linear-gradient(to bottom,rgb(245, 245, 245),#ffffff);
+    margin-top: 100px;
+    border: 1px solid rgb(117, 176, 179);
+    border-radius: 9px;
+    padding-top: 20px;
+}
+form#formulario{
+    color: rgb(14, 9, 9);
+    transition: 2s;
+    font-size: 12pt;
+}
+#titulo-form{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(14, 9, 9);
+}
+
+label{
+    margin-top: 20px;
+}
+#dconfirm, #dmail, #duser, #dsenha{
+    position: relative;
+    width: 100%;
+    height: 30px;
+    border: 1px solid rgb(211, 211, 211);
+    outline: none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+#div-confirm, #div-mail, #div-user, #div-senha{
+    margin: auto 10px auto 10px;
+}
+#dbutao{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+form#formulario:hover{
+    color: red;
+    font-size: 12pt;
+}
+#left:link, #right:link{
+    text-decoration: none;
+}
+#div-esquerda{
+    position: relative;
+    float: left;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+#dbutao{
+    background-image:linear-gradient(to bottom,rgb(8,35,59),#dc3545);
+    outline: none;
+    border: 1px solid rgb(43, 41, 41);
+    border-radius: 7px;
+}
+#div-enviar{
+    float: right;
+    margin-right: 13px;
+    margin-top: 5%;
+}
+#div-confirm{
+    margin-bottom: 10px;
+}
+#txt_erro{
+    color: red; 
+    text-align: center;
+    padding-left: 10px;
+    font-family:sans-serif;
+    transition: 1s;
+    font-size: 13pt;
+}
+#txt_erro:hover{
+    color: rgb(8,35,59)
+}

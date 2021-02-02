@@ -1,0 +1,85 @@
+.row{
+    background-color: white;
+    padding-bottom: 25px;
+    border-radius: 10px;
+}
+
+div.col-lg-3{
+    height: 60vh;
+    margin: 2% 0 0.7% 6% ;
+    background-color:  rgb(184, 180, 180);
+    width: 360px;
+    border-radius: 10px;
+    
+}
+div.container-fluid{
+    width: 90%;
+    margin-top: 4%;
+}
+/* Formatação e exibição do titulo dentro da div de noticia */
+h1#tit-cat{
+    font-size: 20pt;
+    padding-top: 10px;
+    text-align: left;
+    font-weight: bold;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 50ch;
+    word-wrap: break-word;
+    height: 80px;
+}
+p#cat-cat{
+    padding-top:20px;
+}
+/* Formatação e exibição do texto dentro da div de noticia */
+p#texto-cat{
+    height: 140px;
+    padding:15px 0 15px 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 50ch;
+    word-wrap: break-word;
+}
+/* Formatação do botão acessar */
+#botao{
+    margin-top:20px;
+    border-radius: 20px;
+    width: 200px;
+    box-shadow: 0 0 0;
+    border: 1px solid black;
+    outline: none;
+    background-image:linear-gradient(to right,rgb(8,35,59),#dc3545);
+}
+/* Formatação do botão de deletar */
+#deletar-noticia{
+    float: right;
+    margin-top: 41px;
+    border: 0;
+    background-color: transparent;
+    color: rgb(29, 150, 140);
+    cursor: pointer;
+    transition: 10ms;
+}
+#deletar-noticia:hover{
+    color: rgb(27, 10, 102);
+}
+/* NOVA DIV*/
+#retorno{
+    margin-top: -23px;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    z-index: 1;
+}
+#sair{
+    position: relative;
+
+    float: right;
+}

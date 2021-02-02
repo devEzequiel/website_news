@@ -1,0 +1,39 @@
+.container-fluid{
+    margin-top: 50px;
+}
+#ctitulo, #cate, #cont{
+    width: 100%;
+    outline: 0;
+    border: 1px solid #a6cac8;
+    margin-top: 5px;
+    background-color:rgb(235, 233, 233) ;
+    padding-left: 10px;
+}
+#ctitulo, #cate{
+    height: 45px;
+}
+#cont{
+    height: 250px;
+}
+#formulario{
+    background-color:rgb(202, 202, 202);
+    width: 100%;
+    padding: 10px;
+}
+#clic{
+    outline: 0;
+    background-color:rgb(8,35,59);
+    border: 1px solid black;
+    color: #dc3545;
+    padding:7px 8px 7px 8px;
+}
+a#retorno:link{
+    border: 1px solid #000000;
+    padding: 9px 11px 9px 11px;
+    background-color:#dc3545;
+    text-decoration: none;
+    color:rgb(8,35,59) ;
+}
+#retorno:link, #clic{
+    margin-top: 10px;
+}

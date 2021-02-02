@@ -1,0 +1,51 @@
+
+#rodape{
+    background-image:linear-gradient(to right,rgb(8,35,59),#dc3545);
+    height: 30%;
+    margin-top: 68px;
+}
+#sem-back{
+    background-color: transparent;
+    padding-top: 50px;
+    color: white;
+    padding-bottom: 156px;
+    
+}
+.imagem{
+    border-radius: 50px;
+}
+#div-instr{
+    margin-bottom: 25px;
+    font-size: 14pt;
+}
+#div-sep{
+    margin-bottom: 5px;
+}
+#div-sep1{
+    margin-bottom: 20px;
+}
+footer{
+    margin-bottom: -16px;
+}
+#rede-s2{
+    margin-top: 8px;
+}
+#txt-rodape{
+    height: 40px;
+}
+#text-rodape{
+    margin-top: 15px;
+    margin-bottom: 40px;
+    text-align: left;
+}
+#separar1{
+    font-size: 14pt;
+    margin-bottom: 95px;
+}
+.espaco{
+    margin-left: 10px;
+}
+.tamanho{
+    width: 180px;
+    margin-left: 10px;
+}

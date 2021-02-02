@@ -1,0 +1,63 @@
+.container{
+    width: 96.6vw;
+    height: 82vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 40px;
+}
+.ct-box{
+    width: 400px;
+    height: 400px;
+    background-image:linear-gradient(to bottom,rgb(8,35,59),#dc3545);
+}
+#cnome, #csenha{
+    margin: 20px 10px 0 20px;
+    width: 360px;
+    outline: 0;
+    border: 1px solid #000000;
+    height: 30px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+#cimg{
+    position: relative;
+    margin-left: 175px;
+    margin-top: 50px;
+}
+#logo{
+    margin-top: 10px;
+    position: relative;
+    color: white;
+    margin-left: 170px;
+}
+#butoes{
+    margin: 40px 10px 0 244px;
+}
+#direcoes{
+    margin-top: 70px;
+    margin-left: 20px;
+}
+#left:link, #right:link{
+    text-decoration: none;
+    color: white;
+}
+#left:visited, #right:visited{
+    color: #ffffff;
+}
+#right{
+    margin-left: 255px;
+}
+#cenvio{
+    background-color: rgb(8,35,59);
+    color: #ffffff;
+}
+
+#cenvio{
+    border: 1px solid #000000;
+    border-radius: 10px;
+    padding: 3px;
+    outline: none;
+    width: 90%;
+} 
