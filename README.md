@@ -22,7 +22,7 @@
 
 O **Website  News** é um sistema de notícias fictício criado com o intuito de colocarmos em prática parte do nosso conhecimento em desenvolvimento web.
 
-### Detalhes do site
+#### Detalhes do site
 
 Esse sistema de notícias oferece duas hierarquias de acesso: o de leitor o de colaborador.
 O leitor apenas tem o acesso a leitura das notícias já postadas, enquanto o colaborador tem a poder de cadastrar uma nova notícia ou deletar alguma notícia já cadastrada.
