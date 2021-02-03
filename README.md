@@ -1,6 +1,8 @@
 <h1 align="center">
   <img src="news/app_news/img/logo.png" style="width: 60px">
-</h1><br><br>
+</h1>
+
+---
 
 <h1>
   <img src="news/app_news/public/gif_news.gif">
@@ -12,13 +14,20 @@
 
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Instalação](#-instalacao)
+- [Instalação](#-instalação)
 
 ---
 
 ## 📰 Sobre
 
 O **Website  News** é um sistema de notícias fictício criado com o intuito de colocarmos em prática parte do nosso conhecimento em desenvolvimento web.
+
+Esse sistema de notícias oferece duas hierarquias de acesso: o de leitor o de colaborador.
+O leitor apenas tem o acesso a leitura das notícias já postadas, enquanto o colaborador tem a poder de cadastrar uma nova notícia ou deletar alguma notícia já cadastrada.
+
+
+
+
 
 ---
 
@@ -37,9 +46,11 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ⚙ Instalação
 
-- É necessário ter instalado uma versão superior ao PHP 5.4
-- É necessário ter instalado alguma versão do SGBD MariaDB
+Para a correta utilização deste site é necessário que seu computador tenha instalado os requisitos abaixo
+-  PHP 7.0.0 ou superior
+- Sistema gerenciador de Banco de Dados MariaDB
 
----
+
+
 
 
