@@ -20,7 +20,7 @@
 
 ## 📰 Sobre
 
-O **Website  News** é um site de notícias fictício criado com o intuito de colocarmos em prática parte do nosso conhecimento em desenvolvimento web.
+O **Website  News** é um site fictício de notícias criado com o intuito de colocarmos em prática parte do nosso conhecimento em algumas ferramentas de desenvolvimento web.
 
 #### Detalhes do site
 
