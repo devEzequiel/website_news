@@ -56,7 +56,7 @@ Logo após o login todas as funcionalidades disponíveis para colaboradores são
 
 <br><br>
 
-Esse site conta ainda com um sistema de busca notícias, feita de maneira assíncrona (ou seja, não precisa recarregar a página para atualizar as informações).
+O Website News permite que o usuário faça pesquisas de noticías já cadastradas no site.
 
 <h1>
 	<img src="news/app_news/public/search.png">
