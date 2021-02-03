@@ -56,7 +56,7 @@ Logo após o login todas as funcionalidades disponíveis para colaboradores são
 
 <br><br>
 
-O Website News permite que o usuário faça pesquisas de noticías já cadastradas no site.
+O Website News permite que o usuário faça pesquisas de noticías já cadastradas no site. As pesquisas são feitas de maneira assíncrona, ou seja não é necessário recarregar a página para alterar as informações.
 
 <h1>
 	<img src="news/app_news/public/search.png">
