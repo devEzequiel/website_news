@@ -29,32 +29,38 @@ O site por ser rensponsivo, permite que o usuário o acesse por diversos tamanho
 <h1>
   <img src="news/app_news/public/responsive.png">
 </h1>
+<br><br>
 
-
-Esse sistema de notícias oferece duas hierarquias de acesso: o de leitor e o de colaborador.
+Esse sistema de notícias oferece duas hierarquias de acesso: o de leitor e o de colaborador.<br>
 O leitor tem apenas  o acesso à leitura das notícias já cadastradas, enquanto o colaborador tem a poder de cadastrar uma nova notícia ou deletar alguma notícia já cadastrada.
 
 <h1>
   <img src="news/app_news/public/general_vision.png">
 </h1>
-
+<br><br>
 Para conseguir privilégios de colaborador é bastante simples: basta criar uma conta no site e fazer o login.
 
 <h1>
 	<img src="news/app_news/public/new_user.png">
 </h1>
-
+<br><br>
 Logo após o login todas as funcionalidades disponíveis para colaboradores são liberadas.
 
 <h1>
 	<img src="news/app_news/public/adm.png">
 </h1>
-
+<br><br>
 <h1>
 	<img src="news/app_news/public/delete.png">
 </h1>
 
+<br><br>
 
+Esse site conta ainda com um sistema de busca notícias, feita de maneira assíncrona (ou seja, não precisa recarregar a página para atualizar as informações).
+
+<h1>
+	<img src="news/app_news/public/search.png">
+</h1>
 
 ---
 
