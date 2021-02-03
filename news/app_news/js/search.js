@@ -18,7 +18,7 @@ $(document).ready(function(){
 
 			if (news[1]=="Nenhuma noticia foi encontrada"){
 				
-				$('.hide3').html('<h4>Nenhuma noticia foi encontrada</h4>');
+				$('.hide3').html('<h4>'news[1]'</h4>');
 
 			}
 			else {
