@@ -32,7 +32,7 @@ O site por ser rensponsivo, permite que o usuário o acesse por diversos tamanho
 <br><br>
 
 Esse sistema de notícias oferece duas hierarquias de acesso: o de leitor e o de colaborador.<br>
-O leitor tem apenas  o acesso à leitura das notícias já cadastradas, enquanto o colaborador tem a poder de cadastrar uma nova notícia ou deletar alguma notícia já cadastrada.
+O leitor tem apenas  o acesso à leitura das notícias já cadastradas, enquanto o colaborador tem o poder de cadastrar uma nova notícia ou deletar alguma notícia já cadastrada.
 
 <h1>
   <img src="news/app_news/public/general_vision.png">
