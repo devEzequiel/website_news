@@ -6,12 +6,15 @@
   <img src="news/app_news/public/gif_news.gif">
 </h1>
 
+---
+
 # 🔎 Indice
 
-- [Sobre](#sobre)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação](#instalacao)
+- [Sobre](#-sobre)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Instalação](#-instalacao)
 
+---
 
 ## 📰 Sobre
 
@@ -20,8 +23,6 @@ O **Website  News** é um sistema de notícias fictício criado com o intuito de
 ---
 
 ## 🔧 Tecnologias Utilizadas
-
----
 
 O projeto foi desenvolvido com as seguintes tecnologias:
 
