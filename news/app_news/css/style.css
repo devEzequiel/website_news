@@ -55,6 +55,10 @@ p#texto-cat{
     border: 1px solid black;
     outline: none;
     background-image:linear-gradient(to right,rgb(8,35,59),#dc3545);
+    cursor: pointer;
+}
+#botao:hover{
+    background-image:linear-gradient(to right,rgb(5, 48, 87),#ff4255);
 }
 /* Formatação do botão de deletar */
 #deletar-noticia{
