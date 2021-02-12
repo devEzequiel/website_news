@@ -49,6 +49,7 @@
     <script type="text/javascript" src="js/displayNews.js"></script>
     <script type="text/javascript" src="js/acessNew.js"></script>
     <script type="text/javascript" src="js/deleteNew.js"></script>
+    <script type= "text/javascript" src="js/opacity_menu.js"></script>
 </body>
 
 </html>
