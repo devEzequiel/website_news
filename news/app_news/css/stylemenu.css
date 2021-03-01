@@ -8,6 +8,7 @@ body{
 #menu{
     background-image:linear-gradient(to right,rgb(8,35,59),#dc3545); 
     height: 65px;
+    width: 100%;
 }
 #form-pesq{
     clear:both;

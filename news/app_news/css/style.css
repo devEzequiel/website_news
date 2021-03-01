@@ -2,13 +2,15 @@
     background-color: white;
     padding-bottom: 25px;
     border-radius: 10px;
+    padding: 0 15px;
 }
 
 div.col-lg-3{
     height: 60vh;
     margin: 2% 0 0.7% 6% ;
     background-color:  rgb(184, 180, 180);
-    width: 360px;
+    min-width: 200px;
+    max-width: 350px;
     border-radius: 10px;
     
 }
