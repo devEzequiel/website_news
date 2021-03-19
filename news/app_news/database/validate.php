@@ -26,12 +26,12 @@
 		$_SESSION['autenticado'] = 'sim';
 		$_SESSION['id'] = $id['id'];
 		$_SESSION['perfil'] = $id['perfil_id'];
-		header("Location: ../index.php");
+		header("Location: ".BASE_URL."/index.php");
 
 	} else {
 
 		$_SESSION['autenticado'] = 'nao';
-		header("Location: ../login.php?login=error");
+		header("Location: ".BASE_URL."/login.php?login=error");
 		
 	}
 
