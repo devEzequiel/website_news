@@ -3,8 +3,8 @@ var n = 0
 $(document).ready(function(){
 	
 
-	$('#form-btn').on('click', function(){
-
+	$('#search-news').on('submit', function(e){
+		e.preventDefault();
 
 		var pesq = $('#form-pesq').val();
 		$.ajax({
@@ -18,7 +18,7 @@ $(document).ready(function(){
 
 			if (news[1]=="Nenhuma noticia foi encontrada"){
 				
-				$('.hide3').html('<h4>'news[1]'</h4>');
+				$('.hide3').html('<h4>'+news[1]+'</h4>');
 
 			}
 			else {
