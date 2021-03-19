@@ -45,11 +45,11 @@
                     }
                 ?>
             </ul>
-            <form class="form-inline my-2 my-lg-0 hide4" >
+            <form class="form-inline my-2 my-lg-0 hide4" id="search-news">
                 <div class="input-group mb-3">
                     <input id="form-pesq" type="search" class="form-control" placeholder="Procurar" aria-label="Search" aria-describedby="basic-addon2">
                     <div class="input-group-append">
-                        <button id="form-btn" type="button" class="btn btn-default" aria-label="Alinhar na esquerda">
+                        <button id="form-btn" type="submit" class="btn btn-default" aria-label="Alinhar na esquerda">
                             <img src="img/lupa.png" width="15px">
                         </button>
                     </div>
