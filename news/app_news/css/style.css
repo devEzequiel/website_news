@@ -31,7 +31,8 @@ h1#tit-cat{
     overflow: hidden;
     max-width: 50ch;
     word-wrap: break-word;
-    height: 80px;
+    height: 75px;
+    background-color: red;
 }
 p#cat-cat{
     padding-top:20px;
