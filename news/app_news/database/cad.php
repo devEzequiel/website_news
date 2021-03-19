@@ -17,7 +17,7 @@
 	$close = DBClose ($conn);
 
 	if ($execute) {
-		header("Location: ../index.php");
+		header("Location: ".BASE_URL."/index.php");
 	}
 
  ?>
