@@ -35,19 +35,25 @@
 #butoes{
     margin: 40px 10px 0 244px;
 }
-
+form{
+    position: relative;
+}
+#feedback{
+    position: absolute;
+    margin-left: 20px;
+}
 #direcoes{
     position: relative;
 }
 #left{
     position: absolute;
     left: 20px;
-    bottom: -100px;
+    bottom: -9vh;
 }
 #right{
     position: absolute;
     right: 20px;
-    bottom: -100px;
+    bottom: -9vh;
 }
 #left:link, #right:link{
     text-decoration: none;

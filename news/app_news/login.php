@@ -30,7 +30,7 @@
                 <?php
                     if (isset($_GET['login']) && $_GET['login'] == 'error') {   
                 ?>
-                    <div style="color:white" align="center"> email ou senha inválido(s)</div>
+                    <div id="feedback" style="color:white" align="center"> email ou senha inválido(s)</div>
 
                 <?php 
                     }
