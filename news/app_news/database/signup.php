@@ -13,7 +13,7 @@
 	$row = mysqli_num_rows ($compare);
 
 	if ($row > 0) {
-		header("Location: ../cadastro-login.php?user=exist");
+		header("Location: ".BASE_URL."/cadastro-login.php?user=exist");
 		exit();
 	}
 
@@ -26,7 +26,7 @@
 
 		//testa se usuario foi criado e redireciona para pagina de login
 		if ($execute) {
-			header("Location: ../login.php?user=new");
+			header("Location: ".BASE_URL."/login.php?user=new");
 		}
 		else {
 			echo "$user";
