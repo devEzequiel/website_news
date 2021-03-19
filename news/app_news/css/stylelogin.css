@@ -35,9 +35,19 @@
 #butoes{
     margin: 40px 10px 0 244px;
 }
+
 #direcoes{
-    margin-top: 70px;
-    margin-left: 20px;
+    position: relative;
+}
+#left{
+    position: absolute;
+    left: 20px;
+    bottom: -100px;
+}
+#right{
+    position: absolute;
+    right: 20px;
+    bottom: -100px;
 }
 #left:link, #right:link{
     text-decoration: none;
@@ -46,9 +56,7 @@
 #left:visited, #right:visited{
     color: #ffffff;
 }
-#right{
-    margin-left: 255px;
-}
+
 #cenvio{
     background-color: rgb(8,35,59);
     color: #ffffff;
